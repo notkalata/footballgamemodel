@@ -1,0 +1,14 @@
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\bin\Debug\netcoreapp3.1\FootballGameModel.exe
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\bin\Debug\netcoreapp3.1\FootballGameModel.deps.json
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\bin\Debug\netcoreapp3.1\FootballGameModel.runtimeconfig.json
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\bin\Debug\netcoreapp3.1\FootballGameModel.runtimeconfig.dev.json
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\bin\Debug\netcoreapp3.1\FootballGameModel.dll
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\bin\Debug\netcoreapp3.1\FootballGameModel.pdb
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\obj\Debug\netcoreapp3.1\FootballGameModel.csproj.AssemblyReference.cache
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\obj\Debug\netcoreapp3.1\FootballGameModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\obj\Debug\netcoreapp3.1\FootballGameModel.AssemblyInfoInputs.cache
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\obj\Debug\netcoreapp3.1\FootballGameModel.AssemblyInfo.cs
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\obj\Debug\netcoreapp3.1\FootballGameModel.csproj.CoreCompileInputs.cache
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\obj\Debug\netcoreapp3.1\FootballGameModel.dll
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\obj\Debug\netcoreapp3.1\FootballGameModel.pdb
+C:\Users\kokit\source\repos\FootballGameModel\FootballGameModel\obj\Debug\netcoreapp3.1\FootballGameModel.genruntimeconfig.cache
